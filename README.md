@@ -1,19 +1,24 @@
 # crud_makanan
+# Project crud makanan menggunakan local storage
 
-A new Flutter project.
+# Profile
+Nama : Faisal Muhamad Rizqi
+Nim : 23552012015
+Kelas : TIF RP 23 CID A
 
-## Getting Started
-
-Fitur-Fitur:
-CRUD Lengkap:
-
+# Fitur-Fitur:
 ✅ Create - Tambah makanan baru
 ✅ Read - Lihat list & detail makanan
 ✅ Update - Edit makanan
 ✅ Delete - Hapus makanan
 
+# Tampilan Aplikasi
+
+# Demo
+
 Struktur Folder:
-```lib/
+```
+lib/
 ├── main.dart                 # Entry point aplikasi
 ├── models/
 │   └── makanan.dart         # Model data makanan
@@ -22,4 +27,4 @@ Struktur Folder:
 └── screens/
     ├── home_screen.dart      # List makanan
     ├── add_edit_screen.dart  # Tambah/Edit makanan
-    └── detail_screen.dart    # Lihat detail makanan```
+    └── detail_screen.dart    # Lihat detail makanan
