@@ -3,13 +3,18 @@
 
 # Profile
 Nama : Faisal Muhamad Rizqi
+
 Nim : 23552012015
+
 Kelas : TIF RP 23 CID A
 
 # Fitur-Fitur:
 ✅ Create - Tambah makanan baru
+
 ✅ Read - Lihat list & detail makanan
+
 ✅ Update - Edit makanan
+
 ✅ Delete - Hapus makanan
 
 # Tampilan Aplikasi
